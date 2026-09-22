@@ -1,0 +1,6 @@
+{
+  "name": "Generator Perangkat Ajar Pendidikan",
+  "description": "Aplikasi profesional generator perangkat ajar terintegrasi (CP, TP, ATP, PROTA, PROSEM, Modul Ajar, LKPD, Rubrik, dan 100 Soal Evaluasi) dengan sistem 2 tahap validasi & persetujuan legalitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
